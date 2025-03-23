@@ -38,4 +38,5 @@ This project demonstrates a simple feedforward neural network trained using back
 
 ![neural network visualization](./imgs/successive.png)
 
-
+## Optimization Note
+I wrote this implementation with a focus on readability and functionality, not optimization :)
