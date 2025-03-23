@@ -27,8 +27,8 @@ This project demonstrates a simple feedforward neural network trained using back
 > This neural network takes a number as input and returns the successive number as output.
 > For example, with four numbers:
 > ```
-> input ( number 2 ): [0, 1, 0, 0]
-> output (number 3 ): [0, 0, 1, 0]
+> input (number 2): [0, 1, 0, 0]
+> output (number 3): [0, 0, 1, 0]
 > ```
 
 #### Neural Network Architecture:
