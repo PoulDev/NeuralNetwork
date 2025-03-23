@@ -43,5 +43,5 @@ I wrote this implementation with a focus on readability and functionality, not o
 
 ## Useful Resources
 I wanted to list some of the youtube videos that helped me understand neural networks & backpropagation
-- 3Brown1Blue's [beautiful playlist](https://www.youtube.com/playlist?list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi)
+- 3Brown1Blue's [beautiful playlist](https://www.youtube.com/playlist?list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi) ❤️
 - Mahesh Huddar's [blackpropagation solved example](https://www.youtube.com/watch?v=tUoUdOdTkRw)
