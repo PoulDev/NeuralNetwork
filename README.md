@@ -1,5 +1,4 @@
 # NeuralNetwork
-## Overview  
 This project demonstrates a simple feedforward neural network trained using backpropagation. Two examples are provided:  
 - `bits.py`: Converts binary input to its corresponding decimal representation.  
 - `successive.py`: Predicts the next number in a sequence.  
